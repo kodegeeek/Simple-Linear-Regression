@@ -1,0 +1,5 @@
+// few important GIT BASH commands
+
+cd .. {To go back in the directory}
+
+cd /e/ {To change the drive}
