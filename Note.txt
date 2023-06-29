@@ -1,5 +1,11 @@
 // few important GIT BASH commands
 
-cd .. {To go back in the directory}
+$ cd .. ===== {To go back in the directory}
+$ cd /.. ===== {To go back all the way to the end}
 
-cd /e/ {To change the drive}
+$ cd /e/ ===== {To change the drive}
+$ cd /e
+
+$ git pull origin master ==== {to pull the remote repo from git hub}
+$ remote set-url origin https://git-repo/new-repository.git ===== {to change the working repo}
+$ git remote set-url <remote_name> <remote_url>
